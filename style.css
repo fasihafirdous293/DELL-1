@@ -1,0 +1,20 @@
+body{ text-align:center;
+}
+h1{
+  color:orange;
+}
+h2{
+  color:green;
+}
+
+img{
+  text-align:center;
+}
+.para{
+   text-align:center;
+   font-family: "Dancing Script", cursive;
+   font-optical-sizing: auto;
+   font-weight: 500;
+   font-style: normal;
+
+}
